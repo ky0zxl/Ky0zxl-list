@@ -1,18 +1,10 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
-}
+    "name": "Lemuria",
+    "author": "Ky0zxl",
+    "creators": ["Ky0zxl"],
+    "verifier": "Kyozxl",
+    "verification": "https://youtu.be/YGhmguli4UM?si=HE0o1p0E2AlcnYEE",
+    "percentToQualify": 62,
+    "password": "Free Copy",
+    "records": []
